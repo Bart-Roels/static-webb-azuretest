@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fswd-juniexamen-Bart-Roels-1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63A759AFF9DB473D8622655B00721472 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F2E26F133134A7AB38D078BA4036E73 }}
